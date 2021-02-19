@@ -119,11 +119,9 @@
     "cloudbreak": [
       {
         "images": [
-          "dcc34dbc-0a11-42fc-9735-fc784270ca0d",
 	    "c66fe4b9-1511-44ab-a8f4-b43ee065d5e5"
         ],
         "defaults": [
-          "d558405b-b8ba-4425-94cc-a8baff9ffb2c",
 	    "c66fe4b9-1511-44ab-a8f4-b43ee065d5e5"
         ],
         "versions": [
