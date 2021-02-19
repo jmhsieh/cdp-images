@@ -1,8 +1,5 @@
 {
     "images": {
-    "base-images": [
-	{ }
-    ],
     "cdh-images": [
       {
         "created": 1608064341,
