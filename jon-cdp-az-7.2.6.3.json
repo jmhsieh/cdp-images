@@ -1,0 +1,234 @@
+{
+    "images": {
+    "base-images": [
+      {
+        "created": 1601996385,
+        "date": "2020-10-06",
+        "description": "Official Cloudbreak image",
+        "images": {
+          "azure": {
+            "Australia Central": "https://cldraustraliacentral.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Australia East": "https://cldraustraliaeast.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Australia Southeast": "https://cldraustralisoutheast.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Brazil South": "https://cldrbrazilsouth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Canada Central": "https://cldrcanadacentral.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Canada East": "https://cldrcanadaeast.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Central India": "https://cldrcentralindia.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Central US": "https://cldrcentralus.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "East Asia": "https://cldreastasia.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "East US": "https://cldreastus.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "East US 2": "https://cldreastus2.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "France Central": "https://cldrfrancecentral.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Germany North": "https://cldrgermanynorth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Germany West Central": "https://cldrgermanywestcentral.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Japan East": "https://cldrjapaneast.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Japan West": "https://cldrjapanwest.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Korea Central": "https://cldrkoreacentral.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Korea South": "https://cldrkoreasouth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "North Central US": "https://cldrnorthcentralus.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "North Europe": "https://cldrnortheurope.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Norway East": "https://cldrnorwayeast.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Norway West": "https://cldrnorwaywest.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "South Africa North": "https://cldrsouthafricanorth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "South Africa West": "https://cldrsouthafricawest.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "South Central US": "https://cldrsouthcentralus.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "South East Asia": "https://cldrsoutheastasia.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "South India": "https://cldrsouthindia.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "Switzerland North": "https://cldrswitzerlandnorth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "UAE North": "https://cldruaenorth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "UK South": "https://cldruksouth.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "UK West": "https://cldrukwest.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "West Central US": "https://cldrwestcentralus.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "West Europe": "https://cldrwesteurope.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "West India": "https://cldrwestindia.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "West US": "https://cldrwestus.blob.core.windows.net/images/cb-cdh--2010061459.vhd",
+            "West US 2": "https://cldrwestus2.blob.core.windows.net/images/cb-cdh--2010061459.vhd"
+          }
+        },
+        "os": "centos7",
+        "os_type": "redhat7",
+        "uuid": "dcc34dbc-0a11-42fc-9735-fc784270ca0d",
+        "package-versions": {
+          "salt": "3000.2",
+          "salt-bootstrap": "0.13.4-2020-09-30T15:03:43"
+        }
+      }
+    ],
+    "cdh-images": [
+      {
+        "created": 1612541410,
+        "date": "2021-02-05",
+        "description": "Official Cloudbreak image",
+        "images": {
+          "azure": {
+            "Australia Central": "https://cldraustraliacentral.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Australia East": "https://cldraustraliaeast.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Australia Southeast": "https://cldraustralisoutheast.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Brazil South": "https://cldrbrazilsouth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Canada Central": "https://cldrcanadacentral.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Canada East": "https://cldrcanadaeast.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Central India": "https://cldrcentralindia.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Central US": "https://cldrcentralus.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "East Asia": "https://cldreastasia.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "East US": "https://cldreastus.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "East US 2": "https://cldreastus2.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "France Central": "https://cldrfrancecentral.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Germany North": "https://cldrgermanynorth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Germany West Central": "https://cldrgermanywestcentral.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Japan East": "https://cldrjapaneast.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Japan West": "https://cldrjapanwest.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Korea Central": "https://cldrkoreacentral.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Korea South": "https://cldrkoreasouth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "North Central US": "https://cldrnorthcentralus.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "North Europe": "https://cldrnortheurope.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Norway East": "https://cldrnorwayeast.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Norway West": "https://cldrnorwaywest.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "South Africa North": "https://cldrsouthafricanorth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "South Africa West": "https://cldrsouthafricawest.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "South Central US": "https://cldrsouthcentralus.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "South East Asia": "https://cldrsoutheastasia.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "South India": "https://cldrsouthindia.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "Switzerland North": "https://cldrswitzerlandnorth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "UAE North": "https://cldruaenorth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "UK South": "https://cldruksouth.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "UK West": "https://cldrukwest.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "West Central US": "https://cldrwestcentralus.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "West Europe": "https://cldrwesteurope.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "West India": "https://cldrwestindia.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "West US": "https://cldrwestus.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd",
+            "West US 2": "https://cldrwestus2.blob.core.windows.net/images/cb-cdh-72-2102051610.vhd"
+          }
+        },
+        "os": "centos7",
+        "os_type": "redhat7",
+        "uuid": "ed842abb-46f4-4990-97b3-b83b085af9e3",
+        "package-versions": {
+          "cdh-build-number": "9216531",
+          "cfm": "2.0.6.0-27",
+          "cfm_gbn": "7796746",
+          "cloudbreak_images": "012d79b",
+          "cm": "7.2.6",
+          "cm-build-number": "7940738",
+          "composite_gbn": "9230131",
+          "csa": "1.2.1.0-44",
+          "csa_gbn": "7258560",
+          "profiler": "2.0.7.0-18",
+          "profiler_gbn": "7628150",
+          "salt": "3000.5",
+          "salt-bootstrap": "0.13.4-2020-09-30T15:03:43",
+          "spark3": "3.0.7110.0-81",
+          "spark3_gbn": "5866256",
+          "stack": "7.2.6"
+        },
+        "stack-details": {
+          "repo": {
+            "stack": {
+              "redhat7": "https://archive.cloudera.com/p/cdp-public/7.2.6.3/parcels/",
+              "repoid": "CDH-7.2.6",
+              "repository-version": "7.2.6-1.cdh7.2.6.p3.9216531"
+            },
+            "util": null
+          },
+          "version": "7.2.6",
+          "build-number": "9216531"
+        },
+        "repo": {
+          "redhat7": "https://archive.cloudera.com/p/cm-public/7.2.6/redhat7/yum/"
+        },
+        "version": "7.2.6",
+        "build-number": "7940738",
+        "pre_warm_parcels": [
+          [
+            "SPARK3-3.0.1.3.0.7110.0-81-1.p0.5866256-el7.parcel",
+            "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/5866256/spark3/3.x/parcels/."
+          ],
+          [
+            "FLINK-1.10.0-csa1.2.1.0-cdh7.2.1.0-327-7258560-el7.parcel",
+            "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7258560/csa/1.2.1.0/parcels/."
+          ],
+          [
+            "PROFILER_MANAGER-2.0.7.2.0.7.0-18-el7.parcel",
+            "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7628150/dss/2.x/redhat7/yum/tars/dataplane_profilers"
+          ],
+          [
+            "PROFILER_SCHEDULER-2.0.7.2.0.7.0-18-el7.parcel",
+            "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7628150/dss/2.x/redhat7/yum/tars/dataplane_profilers"
+          ],
+          [
+            "CFM-2.0.6.0-el7.parcel",
+            "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7796746/cfm/2.x/redhat7/yum/tars/parcel"
+          ]
+        ],
+        "pre_warm_csd": [
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/5866256/spark3/3.x/csd/LIVY_FOR_SPARK3-0.6.0.3.0.7110.0-81.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/5866256/spark3/3.x/csd/SPARK3_ON_YARN-3.0.1.3.0.7110.0-81.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7258560/csa/1.2.1.0/csd/FLINK-1.10.0-csa1.2.1.0-cdh7.2.1.0-327-7258560.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7628150/dss/2.x/redhat7/yum/tars/dataplane_profilers/PROFILER_MANAGER-2.0.7.2.0.7.0-18.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7628150/dss/2.x/redhat7/yum/tars/dataplane_profilers/PROFILER_SCHEDULER-2.0.7.2.0.7.0-18.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7796746/cfm/2.x/redhat7/yum/tars/parcel/NIFI-1.11.4.2.0.6.0-27.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7796746/cfm/2.x/redhat7/yum/tars/parcel/NIFICA-1.11.4.2.0.6.0-27.jar",
+          "http://cloudera-build-us-west-1.vpc.cloudera.com/s3/build/7796746/cfm/2.x/redhat7/yum/tars/parcel/NIFIREGISTRY-0.5.0.2.0.6.0-27.jar"
+        ]
+      }
+    ]
+  },
+
+  "versions": {
+    "cloudbreak": [
+      {
+        "images": [
+          "d558405b-b8ba-4425-94cc-a8baff9ffb2c",
+          "cab24f8e-875c-42b9-8fb1-67ac3a33e9fe",
+          "dcc34dbc-0a11-42fc-9735-fc784270ca0d",
+          "2dde06c3-ae6e-4452-604c-a8bebea71edb",
+          "da8976b2-ced0-42be-6946-a86ba974af11",
+          "92473bb8-2137-431f-7c4c-d90752ce2a5c",
+          "a779c9a1-fd34-4b69-4951-a848d1883b99",
+          "19fc5d39-0d19-43aa-69a0-f9989a3df377",
+          "2a987115-b5b5-4c68-7ed5-a474e20a3f98",
+          "505395ad-63eb-4d11-a7ea-832864c2504d",
+          "b01a59f8-c5d4-4102-9a72-22f4b1c8e5d6",
+          "df68d25e-95ac-445c-b770-30805e56e711",
+          "fb0bb120-07e8-46fe-a082-bbe5ebbf04a9",
+          "d7c10f36-6bb0-4bcb-a3cb-942537a8b919",
+          "91a18cfd-9f88-4fc6-a1bf-1426075f407e",
+          "ed842abb-46f4-4990-97b3-b83b085af9e3",
+          "c5ab0010-0414-46e3-b9e8-cee33d41b5f0",
+          "dd81ed01-f6fa-475c-bbc7-20a06553ff4c",
+          "1e7c763d-0fcc-4a03-b6c4-adbbd4add30f",
+          "4c6ff7a1-2872-4c02-a3de-16dc21d3ef28",
+          "3fc191ab-f741-4924-8491-67000ce00ed6"
+        ],
+        "defaults": [
+          "d558405b-b8ba-4425-94cc-a8baff9ffb2c",
+          "92473bb8-2137-431f-7c4c-d90752ce2a5c",
+          "505395ad-63eb-4d11-a7ea-832864c2504d",
+          "19fc5d39-0d19-43aa-69a0-f9989a3df377",
+          "a779c9a1-fd34-4b69-4951-a848d1883b99",
+          "2a987115-b5b5-4c68-7ed5-a474e20a3f98",
+          "dcc34dbc-0a11-42fc-9735-fc784270ca0d",
+          "cab24f8e-875c-42b9-8fb1-67ac3a33e9fe",
+          "da8976b2-ced0-42be-6946-a86ba974af11",
+          "2dde06c3-ae6e-4452-604c-a8bebea71edb",
+          "df68d25e-95ac-445c-b770-30805e56e711",
+          "fb0bb120-07e8-46fe-a082-bbe5ebbf04a9",
+          "d7c10f36-6bb0-4bcb-a3cb-942537a8b919",
+          "91a18cfd-9f88-4fc6-a1bf-1426075f407e",
+          "ed842abb-46f4-4990-97b3-b83b085af9e3",
+          "c5ab0010-0414-46e3-b9e8-cee33d41b5f0",
+          "dd81ed01-f6fa-475c-bbc7-20a06553ff4c",
+          "1e7c763d-0fcc-4a03-b6c4-adbbd4add30f",
+          "4c6ff7a1-2872-4c02-a3de-16dc21d3ef28",
+          "3fc191ab-f741-4924-8491-67000ce00ed6"
+        ],
+        "versions": [
+          "2.36.0-b123",
+          "2.37.0-b136",
+          "2.37.0-b143",
+          "2.37.0-b147",
+          "2.38.0-b75"
+        ]
+      }
+    ]
+  }
+}
